@@ -1188,6 +1188,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-image img {
+  border-radius: 10px;
+  width: 100px;
+  height: 100px;
+}
 .owl-carousel-fullwidth .item .fh5co-owl-text .fh5co-lead {
   font-weight: 700;
   margin-bottom: 20px;
