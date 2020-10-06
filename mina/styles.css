@@ -1,0 +1,162 @@
+.thong-ke {
+    position: relative;
+}
+.thong-ke::before {
+    background-image: url(../images2/1thong_ke.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.khoi-mon-hoc {
+    position: relative;
+}
+.khoi-mon-hoc::before {
+    background-image: url(../images2/1mon_hoc.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.desktop {
+    position: relative;
+}
+.desktop::before {
+    background-image: url(../images2/1bxh.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.mobile {
+    position: relative;
+}
+.mobile::before {
+    background-image: url(../images2/1danh_gia_cua_sv.png) !important; margin: 0 !important;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.gioi-thieu {
+    position: relative;
+}
+.gioi-thieu::before {
+    background-image: url(../images2/1bia_sach.png) !important; overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.danh_gia_cua_sv {
+    position: relative;
+}
+.danh_gia_cua_sv::before {
+    background-image: url(../images2/1danh_gia_cua_sv.png) !important; margin: 0 !important;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.chuyen_de {
+    position: relative;
+}
+.chuyen_de::before {
+    background-color: #ededed; padding-top: 43px !important; margin-bottom: 0px !important; padding-bottom: 48px; 
+    background-image: url(../images2/1chuyen_de.png) !important;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.chuong {
+    position: relative;
+}
+.chuong::before {
+    background-image: url(../images2/1chuong.png) !important;     margin-top: 0 !important;
+    
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.khung_mail {
+    position: relative;
+}
+.khung_mail::before {
+    background-image: url(../images2/1khung_mail.png) !important;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    z-index: -1;
+    -webkit-transform:translatez(0);-webkit-backface-visibility: hidden;
+}
+.footer1 {
+    position: relative;
+}
+.footer1::before {
+    background-image: url(../images2/1chan_trang.png) !important;     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    content: '';
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    will-change: transform;
+    /* z-index: -1; */
+    /* -webkit-transform:translatez(0);-webkit-backface-visibility: hidden; */
+}
