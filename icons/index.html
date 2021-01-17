@@ -10,6 +10,7 @@
     <script src="icons.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.20/lodash.min.js"></script>
+    <button onclick="myFunction()">Thay đổi background</button>
     <div class="icons"></div>
     <script>
         $( ".icons" ).append( $( "h2" ) );
@@ -20,8 +21,22 @@
                 </div>`);
         })
     </script>
+    <script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
 
 <style>
+    body {
+        background-color: black;
+  color: white;
+    }
+    .dark-mode {
+  background-color: white;
+  color: black;
+}
     svg {
         width: 80px;
         height: 80px;
@@ -35,6 +50,10 @@
     }
     p {
         text-align: center;
+        color: white;
+    }
+    .dark-mode p {
+        color: black;
     }
 </style>
 </body>
