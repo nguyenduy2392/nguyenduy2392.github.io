@@ -1144,5 +1144,11 @@ const icons = {
     radio_tbn_inactive: `<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
     <circle cx="12" cy="12" r="10" fill="white"/>
     <circle cx="12" cy="12" r="9.5" fill="white" stroke="#DCE6F5"/>
+    </svg>`,
+    plush: `<svg width="33" height="33" viewBox="0 0 33 33" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M17.8334 7.16668C17.8334 6.4303 17.2364 5.83334 16.5 5.83334C15.7637 5.83334 15.1667 6.4303 15.1667 7.16668V15.1667H7.16671C6.43033 15.1667 5.83337 15.7636 5.83337 16.5C5.83337 17.2364 6.43033 17.8333 7.16671 17.8333H15.1667V25.8333C15.1667 26.5697 15.7637 27.1667 16.5 27.1667C17.2364 27.1667 17.8334 26.5697 17.8334 25.8333V17.8333H25.8334C26.5698 17.8333 27.1667 17.2364 27.1667 16.5C27.1667 15.7636 26.5698 15.1667 25.8334 15.1667H17.8334V7.16668Z" fill="#B9C6E0"/>
+    </svg>`,
+    ballon_arrow: `<svg width="16" height="8" viewBox="0 0 16 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H16L8 8L0 0Z" fill="white"/>
     </svg>`
 }
