@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <title>Icon</title>
+
+
+<body>
+
+    <script src="thephann.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.20/lodash.min.js"></script>
+    <button onclick="myFunction()">Thay đổi background</button>
+    <div class="icons"></div>
+    <script>
+        $( ".icons" ).append( $( "h2" ) );
+        _.forEach(icons, (icon, key)=> {
+            $( ".icons" ).append(`<div class="icon">
+                    ${icon}
+                    <p>${key}</p>
+                </div>`);
+        })
+    </script>
+    <script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+<style>
+    body {
+        background-color: black;
+  color: white;
+    }
+    .dark-mode {
+  background-color: white;
+  color: black;
+}
+    svg {
+        width: 80px;
+        height: 80px;
+    }
+    .icon {
+        width: 80px;
+        align-items: center;
+        display: inline-block;
+        padding: 0 15px 0 15px;
+        margin-top: 50px;
+    }
+    p {
+        text-align: center;
+        color: white;
+    }
+    .dark-mode p {
+        color: black;
+    }
+</style>
+</body>
+
+</html>
