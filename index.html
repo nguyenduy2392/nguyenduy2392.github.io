@@ -148,6 +148,7 @@
   <h1 id="headline">Dưa bé bỏng 🥳🎂🎂</h1>
   <div id="countdown">
     <ul>
+      <li><span id="week"></span>week</li>
       <li><span id="days"></span>days</li>
       <li><span id="hours"></span>Hours</li>
       <li><span id="minutes"></span>Minutes</li>
@@ -590,7 +591,7 @@
 
         const now = new Date().getTime(),
               distance = -countDown + now;
-
+document.getElementById("week").innerText = Math.floor((distance / (day)) / (7) * 100) / 100,
         document.getElementById("days").innerText = Math.floor(distance / (day)),
           document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
           document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
