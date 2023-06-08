@@ -43,7 +43,8 @@
             "name": "Tuần 6",
             "title": "Siêu âm, xét nghiệm máu, xét nghiệm nước tiểu (Tuần 6 ~ 7)",
             "description": "Xác định tình trạng thai nhi, kiểm tra tim thai, Đánh giá sức khoẻ của mẹ.\nMũi, miệng và tai của bé bắt đầu định hình, ruột và não cũng bắt đầu phát triển. Bé có kích thước 4-7mm (bằng hạt đậu xanh).",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -70,7 +71,8 @@
             "name": "Tuần 9",
             "title": "Sàng lọc dị tật bẩm sinh NIPT (Tuần 9 ~ 11)",
             "description": "Làm NIPT là xét nghiệm giúp phát hiện sớm ở tuần thứ 9 các nguy cơ dị tật thai nhi bẩm sinh nghiêm trọng do bất thường số lượng nhiễm sắc thể (NST). Xét nghiệm dị tật thai nhi tuần thứ 09 (thứ chín) của thai kỳ với xét nghiệm NIPT là xét nghiệm an toàn, chính xác và tốt nhất để phát hiện sớm nhất dị tật thai nhi.\nHình thái cơ bản của bạn đã hình thành rồi, thậm chí có cả dái tai nhỏ nhỏ xinh xinh, nhưng đường hãy còn dài lắm. Đuôi của bào thai đã biến mất. Bạn ấy chỉ nặng một phần ounce, tuy nhiên bạn sắp tăng cân thật nhanh. Mẹ ơi bạn ấy đã lớn bằng một quả nho rồi (chiều dài đầu- mông 23-30mm). ",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -97,7 +99,8 @@
             "name": "Tuần 12",
             "title": "Sàng lọc dị tật bẩm sinh (Tuần 12 ~ 14)",
             "description": "Đây là một trong các mốc khám thai quan trọng tuyệt đối không nên bỏ qua bởi nó giúp sàng lọc dị tật bẩm sinh và đo độ mờ da gáy ở thai nhi. Thời điểm này bác sĩ sẽ tư vấn mẹ bầu làm xét nghiệm Double test (Bạn có thể bỏ qua nếu đã xét nghiệm NIPT từ tuần 9 ~ 11) để tính toán nguy cơ thai nhi mắc hội chứng Down ở giai đoạn sớm của thai kỳ. Xét nghiệm cho kết quả tốt nhất từ tuần 12 - tuần 13.\nTuần này các phản xạ của bạn nhỏ bắt đầu: Các ngón tay của bạn sẽ sớm bắt đầu gấp duỗi, các ngón chân sẽ cong và miệng bạn sẽ thực hiện các động tác mút. Bạn ấy sẽ cảm nhận được khi mẹ nhẹ nhàng sờ vào bụng - mặc dù mẹ vẫn chưa cảm nhận được cử động của bạn. Bé của mẹ đã lớn bằng quả chanh rồi!\nSau ba tháng đầu, sảy thai ít xảy ra hơn. Đối với nhiều bà mẹ tương lai, các triệu chứng mang thai sớm như ốm nghén và mệt mỏi đã biến mất. Nếu bây giờ mẹ cảm thấy tràn đầy năng lượng hơn và chưa tập thể dục trước giờ, đây là thời điểm tốt để bắt đầu một thói quen tập thể dục đều đặn khi mang thai.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -133,7 +136,8 @@
             "name": "Tuần 16",
             "title": "Kiểm tra các bất thường về hình thái của thai nhi. (Tuần 16 ~ 18)",
             "description": "Da đầu của bé bắt đầu được tạo hình, mặc dù vẫn chưa thấy tóc đâu cả. Đôi chân nhỏ giờ đã phát triển, là lúc mẹ có thể cảm giác được thai máy. Đầu của bạn nhỏ lúc này đã thẳng hơn, và tai đã đến gần vị trí chuẩn. Bạn nhỏ của chúng ta lúc này lớn khoảng bằng quả bơ.\nThông qua siêu âm ở mốc khám thai này bác sĩ có thể phát hiện các bất thường về hình thái của thai nhi để đưa ra biện pháp can thiệp kịp thời như: dị dạng cơ quan, hở hàm ếch, sứt môi,... Ngoài ra, mẹ bầu cũng sẽ được tư vấn làm xét nghiệm sàng lọc Triple test (Bạn có thể bỏ qua nếu đã làm NIPT hoặc Double test ở các tuần trước) để dự đoán nguy cơ Down cũng như bất thường nhiễm sắc thể ở thai nhi.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -187,7 +191,8 @@
             "name": "Tuần 22",
             "title": "Siêu âm, tiêm uốn ván, xét nghiệm máu và nước tiểu",
             "description": "Trong lần khám thai này bác sĩ có thể đánh giá được các dị tật bẩm sinh ở các cơ quan như phổi, tim,... và sự phát triển chung của thai nhi để đưa ra tư vấn phù hợp cho mẹ bầu.\nEm bé của chúng ta bây giờ trông giống như một bé sơ sinh thu nhỏ. Các đặc điểm như môi và lông mày đã rõ rệt hơn, nhưng sắc tố sẽ tô màu cho đôi mắt của bạn ấy vẫn chưa xuất hiện.\nEm bé của bạn có cân nặng 430 gram.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -205,7 +210,8 @@
             "name": "Tuần 24",
             "title": "Nghiệm pháp dung nạp đường huyết (Tuần 24 ~ 28)",
             "description": "Bằng nghiệm pháp dung nạp glucose để kịp thời phát hiện đái tháo đường thai kỳ và can thiệp bằng cách thay đổi chế độ ăn, lối sống và có thể dùng thêm insulin.\nBạn nhỏ của chúng ta đang có dáng khá dài và gầy, nhưng thời điểm mũm mĩm sắp đến rồi. Da bạn vẫn mỏng và mờ, nhưng điều đó cũng sẽ bắt đầu thay đổi sớm thôi.\nBạn nhỏ của chúng ta đã lớn bằng một bắp ngô, khoảng 600 gram.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -223,7 +229,8 @@
             "name": "Tuần 26",
             "title": "Phát hiện dị tật muộn và tiêm phòng",
             "description": "Em bé của mẹ bây giờ đang hít vào và thở ra nước ối, giúp bé phát triển phổi. Những động tác thở này là bài tập thực hành cho hơi thở không khí đầu tiên khi sinh.\nEm bé của mẹ có cân nặng khoảng 760 gram.\nThường thì khi thai nhi ở trong khoảng 26 - 30 tuần bác sĩ sẽ yêu cầu thai phụ siêu âm 4D để phát hiện dị tật muộn, kiểm tra lại một số cơ quan để đánh giá sự phát triển của thai nhi. Đây cũng là lúc mẹ bầu cần làm nghiệm pháp dung nạp glucose để biết mình có bị tiểu đường thai kỳ hay không. Muốn có được kết quả xét nghiệm chính xác mẹ bầu cần nhịn ăn theo đúng hướng dẫn của bác sĩ, uống nước đường và lấy máu 3 lần, mỗi lần lấy máu cách nhau 1 tiếng. Ngoài ra, mẹ bầu còn được bác sĩ cho tiêm mũi phòng uốn ván.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -277,7 +284,8 @@
             "name": "Tuần 32",
             "title": "Tiêm mũi 2 uốn ván, siêu âm hình thái",
             "description": "Dị tật thai nhi cũng sẽ được xác định lần cuối thông qua siêu âm 4D ở tuần thai thứ 32. Bác sĩ sẽ khám tổng quát cho mẹ, theo dõi doppler động mạch rốn và não của thai nhi, động mạch tử cung của mẹ. Ngoài ra, ngôi thai cũng sẽ được xác định để tiên lượng cho cuộc sinh sắp tới. Những mẹ bầu cần tiêm 2 mũi uốn ván thì sẽ được tiêm mũi số 2 ở lần khám thai này.\nMẹ có thể sẽ tăng nửa kilogram mỗi tuần. Một nửa số cân nặng ấy chuyển thẳng vào bạn nhỏ, nhân vật sẽ tăng từ 1/3 đến một nửa trọng lượng lúc sinh trong bảy tuần tới để chuẩn bị cho cuộc sống bên ngoài.",
-            "require": true
+            "require": true,
+            "notify": true
         },
         {
             "insite": true,
@@ -304,7 +312,8 @@
             "name": "Tuần 37",
             "title": "Chào bé đế với Mẹ",
             "description": "Ngày dự sinh của mẹ đang đến rất gần rồi, nhưng dù bé nhìn giống một em bé sơ sinh, bé vẫn chưa sẵn sàng bước vào thế giới mới. Trong hơn 02 tuần tới phổi và não của bé sẽ trưởng thành đầy đủ.",
-            "require": true
+            "require": true,
+            "notify": true
         }
     ]
 }
