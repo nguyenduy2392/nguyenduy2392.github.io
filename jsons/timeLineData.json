@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "template": [
         {
             "insite": true,
@@ -217,7 +217,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 176,
+            "addDay": 175,
             "name": "Tuần 25",
             "title": "",
             "description": "Làn da nhăn nheo của bé bắt đầu được làm đầy bằng mỡ, khiến bé trông giống trẻ sơ sinh hơn. Tóc của bé đang bắt đầu mọc lên với màu sắc và kết cấu.\nEm bé của mẹ bây giờ có trọng lượng khoảng 660 gram.",
@@ -226,7 +226,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 183,
+            "addDay": 182,
             "name": "Tuần 26",
             "title": "Phát hiện dị tật muộn và tiêm phòng",
             "description": "Em bé của mẹ bây giờ đang hít vào và thở ra nước ối, giúp bé phát triển phổi. Những động tác thở này là bài tập thực hành cho hơi thở không khí đầu tiên khi sinh.\nEm bé của mẹ có cân nặng khoảng 760 gram.\nThường thì khi thai nhi ở trong khoảng 26 - 30 tuần bác sĩ sẽ yêu cầu thai phụ siêu âm 4D để phát hiện dị tật muộn, kiểm tra lại một số cơ quan để đánh giá sự phát triển của thai nhi. Đây cũng là lúc mẹ bầu cần làm nghiệm pháp dung nạp glucose để biết mình có bị tiểu đường thai kỳ hay không. Muốn có được kết quả xét nghiệm chính xác mẹ bầu cần nhịn ăn theo đúng hướng dẫn của bác sĩ, uống nước đường và lấy máu 3 lần, mỗi lần lấy máu cách nhau 1 tiếng. Ngoài ra, mẹ bầu còn được bác sĩ cho tiêm mũi phòng uốn ván.",
@@ -236,7 +236,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 190,
+            "addDay": 189,
             "name": "Tuần 27",
             "title": "Quý ba thai kì: Chuyện gì sắp xảy ra",
             "description": "Đây là tuần cuối cùng của quý hai thai kì của mẹ. Bạn nhỏ thân thương bây giờ ngủ và thức dậy theo lịch trình đều đặn, và não của bạn rất năng động. Tuy phổi của bạn chưa được hình thành đầy đủ, nhưng chúng có thể hoạt động bên ngoài tử cung với sự trợ giúp y tế.\nBạn nhỏ của mẹ có kích thước khoảng 875 gram.\nTrong quý ba, mẹ có thể đi tiểu thường xuyên hơn hoặc bị chuột rút ở chân khi bạn nhỏ ấn vào dây thần kinh ở hông và lưng của mẹ.\nGiai đoạn trăng mật của thai kỳ đã kết thúc và niềm hạnh phúc làm cha mẹ đang hiện ra ở đường chân trời. Bây giờ là thời gian để làm những việc như đăng ký lớp học sinh nở, thăm khám bác sĩ thường xuyên hơn và tạo sổ đăng ký cho em bé.",
@@ -245,7 +245,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 197,
+            "addDay": 196,
             "name": "Tuần 28",
             "title": "",
             "description": "Thị lực của bé đang phát triển, điều này cho phép bé cảm nhận được ánh sáng từ bên ngoài qua màng lọc. Bạn ấy có thể chớp mắt, và lông mi của bạn đã mọc lên rồi.\nEm bé của mẹ có cân nặng khoảng 1000 gram.",
@@ -254,7 +254,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 204,
+            "addDay": 203,
             "name": "Tuần 29",
             "title": "",
             "description": "Cơ bắp và phổi của bé đang bận rộn để sẵn sàng hoạt động ở thế giới bên ngoài, và đầu bé đang phát triển để tạo chỗ cho bộ não đang phát triển của bé.\nEm bé của mẹ có kích thước của một quả bí nghệ.\nTừ tuần 29 đến tuần 34, em bé tăng trung bình 200gr mỗi tuần",
@@ -263,7 +263,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 211,
+            "addDay": 210,
             "name": "Tuần 30",
             "title": "",
             "description": "Em bé của mẹ được bao quanh bởi một nửa lít nước ối, mặc dù lượng nước ối sẽ ít hơn khi bé lớn lên và chiếm nhiều không gian bên trong tử cung của mẹ.",
@@ -272,7 +272,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 218,
+            "addDay": 217,
             "name": "Tuần 31",
             "title": "",
             "description": "Giờ bạn nhỏ của chúng ta có thể ngúc ngắc cái đầu xinh. Một lớp mỡ bảo vệ đang được tích tụ dưới da và làm đầy những cánh tay đôi chân nhỏ.",
@@ -281,7 +281,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 225,
+            "addDay": 224,
             "name": "Tuần 32",
             "title": "Tiêm mũi 2 uốn ván, siêu âm hình thái",
             "description": "Dị tật thai nhi cũng sẽ được xác định lần cuối thông qua siêu âm 4D ở tuần thai thứ 32. Bác sĩ sẽ khám tổng quát cho mẹ, theo dõi doppler động mạch rốn và não của thai nhi, động mạch tử cung của mẹ. Ngoài ra, ngôi thai cũng sẽ được xác định để tiên lượng cho cuộc sinh sắp tới. Những mẹ bầu cần tiêm 2 mũi uốn ván thì sẽ được tiêm mũi số 2 ở lần khám thai này.\nMẹ có thể sẽ tăng nửa kilogram mỗi tuần. Một nửa số cân nặng ấy chuyển thẳng vào bạn nhỏ, nhân vật sẽ tăng từ 1/3 đến một nửa trọng lượng lúc sinh trong bảy tuần tới để chuẩn bị cho cuộc sống bên ngoài.",
@@ -291,7 +291,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 232,
+            "addDay": 231,
             "name": "Tuần 33",
             "title": "",
             "description": "Các mảnh xương sọ của bé vẫn chưa được hợp nhất mà được nối với nhau bằng tổ chức sụn, điều này khiến đầu bé dễ dàng chui qua đường sinh, chúng sẽ không hợp nhất hoàn toàn cho đến khi bé trưởng thành.",
@@ -300,7 +300,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 239,
+            "addDay": 238,
             "name": "Tuần 34",
             "title": "",
             "description": "Hệ thống thần kinh trung ương cũng như phổi của bé đang trưởng thành. Em bé sinh ra trong khoảng 34 đến 37 tuần mà không có vấn đề sức khỏe nào khác thường có thể sống bình thường trong thời gian dài.\nCân nặng của bé trung bình khoảng 2100 gram.\nBạn nhỏ đang tăng khoảng 30 gram mỗi ngày. Bạn cũng đang mất đi lớp màng mịn bao bọc cơ thể cùng với chất gây, chất sáp bảo vệ bạn ấy từ đầu đến giờ.",
@@ -309,7 +309,7 @@
         {
             "insite": true,
             "day": 7,
-            "addDay": 260,
+            "addDay": 259,
             "name": "Tuần 37",
             "title": "Chào bé đế với Mẹ",
             "description": "Ngày dự sinh của mẹ đang đến rất gần rồi, nhưng dù bé nhìn giống một em bé sơ sinh, bé vẫn chưa sẵn sàng bước vào thế giới mới. Trong hơn 02 tuần tới phổi và não của bé sẽ trưởng thành đầy đủ.",
