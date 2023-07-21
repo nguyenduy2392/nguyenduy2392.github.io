@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "template": [
         {
             "insite": true,
@@ -344,11 +344,44 @@
             "day": 7,
             "addDay": 259,
             "name": "Tuần 37",
-            "title": "Chào bé đế với Mẹ",
-            "description": "Ngày dự sinh của mẹ đang đến rất gần rồi, nhưng dù bé nhìn giống một em bé sơ sinh, bé vẫn chưa sẵn sàng bước vào thế giới mới. Trong hơn 02 tuần tới phổi và não của bé sẽ trưởng thành đầy đủ.",
+            "title": "",
+            "description": "Mẹ đã thấy sự tròn trịa mũm mĩm dần của bé rồi đấy. Lúc này bé đã dài khoảng 50 cm và nặng gần 3kg, có kích thước như một trái dưa hấu. Các cơ quan của bé đã trưởng thành hơn nhiều và sẵn sàng chào đời với những người thân yêu.\nCó thể nhiều mẹ bầu chưa biết rằng thai 37 tuần gò nhiều có thể do các cơn đau giả hay còn được gọi là Braxton Hicks.\nNhững cơn đau này sẽ xuất hiện ở bên trái hay bên phải và mẹ không quá khó chịu với những cơn đau này, chúng chỉ là cơn đau bình thường để giúp mẹ quen dần với việc sinh nở tới đây.\nChúng không xuất hiện ổn định cũng không xuất hiện thường xuyên, có thể giảm đau khi mẹ đổi tư thế. Nếu như chúng không đi kèm các dấu hiệu chuột rút, đau lưng hay chảy máu âm đạo thì không hoàn toàn ảnh hưởng đến mẹ và bé.",
+            "require": true,
+            "notify": false,
+            "key": "5a506fda-adbf-472e-adb2-6e520e1a5e07"
+        },
+        {
+            "insite": true,
+            "day": 7,
+            "addDay": 266,
+            "name": "Tuần 38",
+            "title": "",
+            "description": "Việc bụng bầu căng cứng diễn là khá phổ biến các mẹ ạ. Thế nhưng nhiều mẹ cho rằng việc căng cứng bụng bầu là sắp chuyển dạ. Thế nhưng thai kỳ ở tuần thứ 38 có sự căng cứng là do:\n - Tử cung lớn dần: Đến tuần 38, bé đã ổn định và có trọng lượng khá lớn có thể chèn ép một số cơ quan bên trong của mẹ. Cụ thể khi thai nhi lớn hơn thì đồng nghĩa diện tích khoang chậu, diện tích giữa bàng quang và trực tràng bị thu hẹp nên mẹ cảm thấy bị căng cứng.\n - Khung xương thai nhi phát triển: Thai nhi tuần thứ 38 đã cứng cáp hơn về xương khiến cho bụng mẹ bị ảnh hưởng vì sự hiếu động và nghịch ngợm của trẻ, bụng căng cứng đi kèm các cơn gò tử cung.",
+            "require": true,
+            "notify": false,
+            "key": "f90d74d6-281f-4523-8977-2ee87c10efec"
+        },
+        {
+            "insite": true,
+            "day": 7,
+            "addDay": 273,
+            "name": "Tuần 39",
+            "title": "",
+            "description": "Khi thai nhi tuần thứ 39, bé đã hoàn thiện các các cơ quan trong cơ thể rồi và hoàn toàn có thể thở bằng phổi. Bé cưng trong giai đoạn này có thể nặng đến 3kg và chiều dài khoảng từ 40-50cm.\nMột số mẹ sinh sớm sẽ có thể vượt cạn ở thời điểm này. Nhưng hầu hết là không xuất hiện dấu hiệu chuyển dạ các mẹ nhé.\nThực tế chỉ khoảng 5% các mẹ sinh đúng ngày dự đoán mà thôi. Việc sai lệch có thể do nhiều lý do. Một số trường hợp sẽ sinh sớm, còn lại mẹ sẽ sinh muộn hơn.\nTất nhiên việc ngày sinh dự báo chỉ mang tính chất dự báo trước giai đoạn sinh nở để bố mẹ chuẩn bị tinh thần.",
+            "require": true,
+            "notify": false,
+            "key": "d1bab313-b649-4876-9d7a-5fb5a8e7a0cc"
+        },
+        {
+            "insite": true,
+            "day": 7,
+            "addDay": 280,
+            "name": "Tuần 40",
+            "title": "Em bé chào đời",
+            "description": "Ở tuần thai thứ 40, bé dài 50cm, tiếp tục lớn và có thể nặng đến 3,6kg. Bé đã lớn và không thể ở mãi trong bụng mẹ được. Vì sự an toàn của bé, bác sĩ có thể đề cập với mẹ về việc “kích sinh” nếu bé vẫn chưa muốn ra đời trong tuần tới.",
             "require": true,
             "notify": true,
-            "key": "5a506fda-adbf-472e-adb2-6e520e1a5e07"
+            "key": "cf4024a4-b48d-4e8d-bc8e-913ad991c10a"
         }
     ]
 }
