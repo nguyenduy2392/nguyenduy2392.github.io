@@ -2,7 +2,7 @@
     "maps": [
         {
             "mapIndex": 0,
-            "map": "VietNam",
+            "map": "Valoria",
             "url": "https://nguyenduy2392.github.io/images/unitymap1.jpg",
             "levels": [
                 {
@@ -12,7 +12,7 @@
                         "x": 703.6,
                         "y": -25.4
                     },
-                    "name": "Level",
+                    "name": "Ardent City",
                     "init": {
                         "point": 3,
                         "incomeRate": 1,
@@ -106,7 +106,7 @@
                         "x": 708,
                         "y": 400.6
                     },
-                    "name": "Level",
+                    "name": "Brindleport",
                     "init": {
                         "point": 3,
                         "incomeRate": 1,
@@ -283,7 +283,7 @@
                         "x": 128.5,
                         "y": 380.7
                     },
-                    "name": "Level",
+                    "name": "Crestfield",
                     "init": {
                         "point": 5,
                         "incomeRate": 1,
@@ -543,7 +543,7 @@
                         "x": 78.4,
                         "y": -142.4
                     },
-                    "name": "Level",
+                    "name": "Dunwall",
                     "init": {
                         "point": 6,
                         "incomeRate": 1,
@@ -1007,7 +1007,7 @@
                         "x": 643.3,
                         "y": -267.5
                     },
-                    "name": "Level",
+                    "name": "Eastcliff",
                     "init": {
                         "point": 7,
                         "incomeRate": 1,
@@ -1587,7 +1587,7 @@
                         "x": -44.3,
                         "y": -425.6
                     },
-                    "name": "Level",
+                    "name": "Falbridge",
                     "init": {
                         "point": 8,
                         "incomeRate": 1,
@@ -2481,7 +2481,7 @@
                         "x": -471.3,
                         "y": -462.3
                     },
-                    "name": "Level",
+                    "name": "Grayhaven",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -4889,7 +4889,7 @@
                         "x": -248.8,
                         "y": -59.3
                     },
-                    "name": "Level",
+                    "name": "Highmoor",
                     "init": {
                         "point": 11,
                         "incomeRate": 1,
@@ -8029,7 +8029,7 @@
                         "x": -657.5,
                         "y": -189.2
                     },
-                    "name": "Level",
+                    "name": "Ironhold",
                     "init": {
                         "point": 11,
                         "incomeRate": 1,
@@ -11169,7 +11169,7 @@
                         "x": -248.1,
                         "y": 384.2
                     },
-                    "name": "Level",
+                    "name": "Kingsborough",
                     "init": {
                         "point": 15,
                         "incomeRate": 1,
@@ -14472,7 +14472,7 @@
         },
         {
             "mapIndex": 1,
-            "map": "Rusia",
+            "map": "Ocealis",
             "url": "https://nguyenduy2392.github.io/images/unitymap2.jpg",
             "levels": [
                 {
@@ -14482,7 +14482,7 @@
                         "x": -302,
                         "y": 54.7
                     },
-                    "name": "Level",
+                    "name": "Lakeford",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -16407,7 +16407,7 @@
                         "x": -282,
                         "y": 554.1
                     },
-                    "name": "Level",
+                    "name": "Moorview",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -18977,7 +18977,7 @@
                         "x": 85.4,
                         "y": 603.2
                     },
-                    "name": "Level",
+                    "name": "Northgate",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -21950,7 +21950,7 @@
                         "x": 183.3,
                         "y": 263.7
                     },
-                    "name": "Level",
+                    "name": "Oakridge",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -25372,7 +25372,7 @@
                         "x": 494.5,
                         "y": -225.4
                     },
-                    "name": "Level",
+                    "name": "Pinecrest",
                     "init": {
                         "point": 10,
                         "incomeRate": 1,
@@ -30050,7 +30050,7 @@
                         "x": 40.3,
                         "y": -306.4
                     },
-                    "name": "Level",
+                    "name": "Rivermouth",
                     "init": {
                         "point": 12,
                         "incomeRate": 1,
@@ -34127,6 +34127,7 @@
                                     "rate": 0.98,
                                     "delay": "0.79"
                                 },
+
                                 {
                                     "tag": "RocketArtillery",
                                     "speedFrom": 3,
@@ -35909,7 +35910,7 @@
                         "x": -578.8,
                         "y": -557.9
                     },
-                    "name": "Level",
+                    "name": "Southport",
                     "init": {
                         "point": 12,
                         "incomeRate": 1,
@@ -42173,7 +42174,7 @@
                         "x": -1003.3,
                         "y": -417.4
                     },
-                    "name": "Level",
+                    "name": "Westvale",
                     "init": {
                         "point": 14,
                         "incomeRate": 1,
@@ -42228,6 +42229,7 @@
                                     "rate": 0.98,
                                     "delay": 0
                                 },
+
                                 {
                                     "tag": "Rocket",
                                     "speedFrom": "10.00",
@@ -42278,6 +42280,7 @@
                                     "rate": 0.98,
                                     "delay": 0
                                 },
+
                                 {
                                     "tag": "Rocket",
                                     "speedFrom": "10.00",
@@ -42339,6 +42342,7 @@
                                     "rate": 0.98,
                                     "delay": 0
                                 },
+
                                 {
                                     "tag": "Rocket",
                                     "speedFrom": "10.00",
@@ -42411,6 +42415,7 @@
                                     "rate": 0.98,
                                     "delay": 0
                                 },
+
                                 {
                                     "tag": "Rocket",
                                     "speedFrom": "10.00",
@@ -49858,7 +49863,7 @@
                         "x": -920.4,
                         "y": -3.7
                     },
-                    "name": "Level",
+                    "name": "Silverbay",
                     "init": {
                         "point": 15,
                         "incomeRate": 1,
@@ -60366,7 +60371,7 @@
                         "x": -538.5,
                         "y": 197.5
                     },
-                    "name": "Level",
+                    "name": "Stormhaven",
                     "init": {
                         "point": 15,
                         "incomeRate": 1,
@@ -71958,7 +71963,7 @@
         },
         {
             "mapIndex": 2,
-            "map": "Rusia",
+            "map": "Coming Soon",
             "url": "https://nguyenduy2392.github.io/images/unitymap3.jpg",
             "levels": []
         }
